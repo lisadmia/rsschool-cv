@@ -17,6 +17,12 @@
 
 ## Code example ##
 
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
 ## Education ##
 
 College of Architecture and Construction № 7
